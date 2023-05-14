@@ -1,0 +1,15 @@
+.chart {
+  width: min(100%, 800px);
+
+}
+
+
+.content_block-image {
+  width: min(100%, 600px);
+  display: flex;
+  transform : translateX ( 100px ) scale ( 0.5 ); 
+}
+
+.content_block-text {
+  width: min(100%, 600px);
+}
